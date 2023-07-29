@@ -55,19 +55,7 @@ const deleteUser = async (id) => {
     });
 };
 
-// createUser({
-//   name: "Smack",
-//   age: 17,
-//   email: "smack@gmail.com",
-// });
-// updateUser(
-//   {
-//     name: "Smack3",
-//     age: 22,
-//     email: "122001@gmail.com",
-//   },
-//   2
-// );
-getUsrsList();
-deleteUser(2);
-getUsrsList();
+
+// getUsrsList();
+// deleteUser(2);
+// getUsrsList();
